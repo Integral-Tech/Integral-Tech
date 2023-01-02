@@ -2,6 +2,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux&logoColor=white&style=for-the-badge)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1D99F3?logo=archlinux&logoColor=white&style=for-the-badge)
 ![KDE Plasma](https://img.shields.io/badge/-KDE%20Plasma-0088cc?logo=kde&logoColor=white&style=for-the-badge)
+![QEMU](https://img.shields.io/badge/-QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
