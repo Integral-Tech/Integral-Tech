@@ -13,6 +13,7 @@
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-8B4513?logo=rust&logoColor=white&style=for-the-badge)
+
 - 🔭 I’m currently working on a tiny OS kernel development.
 - 🌱 I’m currently learning Rust and Linux Kernel.
 ---
