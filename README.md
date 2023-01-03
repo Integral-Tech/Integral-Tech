@@ -13,10 +13,11 @@
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-8B4513?logo=rust&logoColor=white&style=for-the-badge)
-
 - 🔭 I’m currently working on a tiny OS kernel development.
 - 🌱 I’m currently learning Rust and Linux Kernel.
-- 📫 How to reach me:
-  - Telegram: [@Integral_Tech](https://t.me/Integral_Tech)
-  - Matrix: @integral_68:matrix.org
-  - QQ: 3031369033
+---
+### How to reach me
+  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Integral_Tech)
+  [![Matrix](https://img.shields.io/badge/-Matrix-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral_68:matrix.org)
+  
+  ![QQ](https://img.shields.io/badge/-QQ%203031369033-EB1923?logo=tencentqq&logoColor=white&style=for-the-badge)
