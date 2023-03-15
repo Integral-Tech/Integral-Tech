@@ -14,6 +14,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-8B4513?logo=rust&logoColor=white&style=for-the-badge)
 
+PGP Fingerprint: C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
+
 - 🔭 I’m currently working on a tiny OS kernel development.
 - 🌱 I’m currently learning Rust and Linux Kernel.
 ---
