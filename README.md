@@ -27,4 +27,4 @@ PGP Fingerprint: C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
 
 ### If you like my open-source work, you can sponsor me
 - [爱发电 (afadian)](https://afdian.net/a/integral)
-- [PayPal](paypal.me/integral68)
+- [PayPal](https://paypal.me/integral68)
