@@ -19,8 +19,8 @@
 
 PGP Fingerprint: C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
 
+- 🌱 I’m currently learning Rust, Linux Kernel, GNU Emacs and ARMv8.
 - 🔭 I’m currently working on a tiny OS kernel development.
-- 🌱 I’m currently learning Rust, Linux Kernel and ARMv8.
 ---
 ### How to reach me
   [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Integral_Tech)
