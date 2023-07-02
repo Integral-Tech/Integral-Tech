@@ -17,8 +17,10 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![ARM](https://img.shields.io/badge/-ARMv8-0091BD?logo=arm&logoColor=white&style=for-the-badge)
 
-PGP Fingerprint: C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
-
+- PGP Fingerprint:
+```
+C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
+```
 - 🌱 I’m currently learning Rust, Linux Kernel, GNU Emacs and ARMv8.
 - 🔭 I’m currently working on a tiny OS kernel development.
 ---
