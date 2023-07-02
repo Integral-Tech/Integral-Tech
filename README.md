@@ -8,17 +8,19 @@
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Code-OSS](https://img.shields.io/badge/-Code%20OSS-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![GNU Emacs](https://img.shields.io/badge/-GNU%20Emacs-7F5AB6?logo=gnuemacs&logoColor=white&style=for-the-badge)
 ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge)
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-8B4513?logo=rust&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![ARM](https://img.shields.io/badge/-ARMv8-0091BD?logo=arm&logoColor=white&style=for-the-badge)
 
 PGP Fingerprint: C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
 
 - 🔭 I’m currently working on a tiny OS kernel development.
-- 🌱 I’m currently learning Rust and Linux Kernel.
+- 🌱 I’m currently learning Rust, Linux Kernel and ARMv8.
 ---
 ### How to reach me
   [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Integral_Tech)
