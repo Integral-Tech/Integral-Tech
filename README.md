@@ -17,9 +17,9 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![ARM](https://img.shields.io/badge/-ARMv8-0091BD?logo=arm&logoColor=white&style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=Integral-Tech&show_icons=true&theme=github_dark_dimmed)
+|![](https://github-readme-stats.vercel.app/api?username=Integral-Tech&show_icons=true&theme=github_dark_dimmed)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Integral-Tech&layout=compact&theme=github_dark_dimmed)|
+| --- | --- |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Integral-Tech&layout=compact&theme=github_dark_dimmed)
 
 - PGP Fingerprint:
 ```
