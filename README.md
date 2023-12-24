@@ -7,12 +7,14 @@
 
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Code-OSS](https://img.shields.io/badge/-Code%20OSS-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![GNU Emacs](https://img.shields.io/badge/-GNU%20Emacs-7F5AB6?logo=gnuemacs&logoColor=white&style=for-the-badge)
+![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?logo=qt&logoColor=white&style=for-the-badge)
+![Code-OSS](https://img.shields.io/badge/-Code%20OSS-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge)
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-8B4513?logo=rust&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![ARM](https://img.shields.io/badge/-ARMv8-0091BD?logo=arm&logoColor=white&style=for-the-badge)
@@ -23,8 +25,7 @@
 | --- | --- |
 
 - I'm an [archlinuxcn](https://github.com/archlinuxcn/) maintainer.
-- I’m currently learning Rust, Linux Kernel, GNU Emacs and ARMv8.
-- I’m currently working on a tiny OS kernel development.
+- I’m currently learning [Qt](https://www.qt.io), [Kirigami](https://develop.kde.org/frameworks/kirigami), [Rust](https://www.rust-lang.org) and [Linux Kernel](https://www.kernel.org).
 
 ### How to reach me
 #### Instant messaging
