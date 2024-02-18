@@ -30,9 +30,6 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 |![](https://github-readme-stats.vercel.app/api?username=Integral-Tech&show_icons=true&theme=github_dark_dimmed)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Integral-Tech&layout=compact&theme=github_dark_dimmed)|
 | --- | --- |
 
-- I'm an [archlinuxcn](https://github.com/archlinuxcn/) maintainer.
-- I’m currently learning [Qt](https://www.qt.io), [Kirigami](https://develop.kde.org/frameworks/kirigami), [Rust](https://www.rust-lang.org) and [Linux Kernel](https://www.kernel.org).
-
 ### How to reach me
 #### Other Git Hosting Services
 [![Codeberg](https://img.shields.io/badge/-Codeberg-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/Integral)
