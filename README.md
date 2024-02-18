@@ -35,11 +35,12 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 [![Codeberg](https://img.shields.io/badge/-Codeberg-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/Integral)
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/Integral-Tech)
 
-- Reason of switching to other git hosting services: [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
+- Reason to switch to other git hosting services: [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
 
 #### Instant messaging
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Integral_Tech)
 [![Matrix](https://img.shields.io/badge/-Matrix-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral_68:mozilla.org)
+
 #### PGP Fingerprint
 ```
 C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
