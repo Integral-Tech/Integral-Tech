@@ -33,8 +33,9 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 ### How to reach me
 #### Other Git Hosting Services
 [![Codeberg](https://img.shields.io/badge/-Codeberg-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/Integral)
-[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/Integral-Tech)
 [![KDE Invent](https://img.shields.io/badge/-KDE%20Invent-0088cc?logo=kde&logoColor=white&style=for-the-badge)](https://invent.kde.org/integral)
+[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/Integral-Tech)
+[![SourceHut](https://img.shields.io/badge/-SourceHut-000000?logo=sourcehut&logoColor=white&style=for-the-badge)](https://sr.ht/~integral)
 
 - Reason to switch to other git hosting services: [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
 
