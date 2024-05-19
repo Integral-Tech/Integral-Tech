@@ -41,7 +41,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 #### Instant messaging
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Integral_Tech)
-[![Matrix](https://img.shields.io/badge/-Matrix-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral_68:mozilla.org)
+[![Matrix](https://img.shields.io/badge/-Matrix-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral:fedora.im)
 
 #### PGP Fingerprint
 ```
