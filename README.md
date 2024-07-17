@@ -8,9 +8,8 @@
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![GNU Emacs](https://img.shields.io/badge/-GNU%20Emacs-7F5AB6?logo=gnuemacs&logoColor=white&style=for-the-badge)
+![Zed](https://img.shields.io/badge/-Zed-084CCF?logo=zedindustries&logoColor=white&style=for-the-badge)
 ![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?logo=qt&logoColor=white&style=for-the-badge)
-![Code-OSS](https://img.shields.io/badge/-Code%20OSS-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![QEMU](https://img.shields.io/badge/-QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge)
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -24,13 +23,11 @@
 |![](https://github-readme-stats.vercel.app/api?username=Integral-Tech&show_icons=true&theme=github_dark_dimmed)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Integral-Tech&layout=compact&theme=github_dark_dimmed)|
 | --- | --- |
 
-- I'm an [archlinuxcn](https://github.com/archlinuxcn/) maintainer.
-- I’m currently learning [Qt](https://www.qt.io), [Kirigami](https://develop.kde.org/frameworks/kirigami), [Rust](https://www.rust-lang.org) and [Linux Kernel](https://www.kernel.org).
-
 ### How to reach me
 #### Instant messaging
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Integral_Tech)
 [![Matrix](https://img.shields.io/badge/-Matrix-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral_68:mozilla.org)
+
 #### PGP Fingerprint
 ```
 C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
