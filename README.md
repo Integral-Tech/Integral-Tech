@@ -37,5 +37,12 @@ C5D2 A6E0 ED2D 11C6 6B9F A2A3 0631 3911 057D D5A8
 ```
 
 ### If you like my open-source work, you can sponsor me
-- [爱发电 (afadian)](https://afdian.net/a/integral)
-- [PayPal](https://paypal.me/integral68)
+- [Ko-fi](https://ko-fi.com/integral_tech)
+- LiteCoin (LTC)
+```
+ltc1qyaz38je87t88u68ph6sdqwtlraq7va7h63f6d7
+```
+- Polygon (MATIC)
+```
+0xF92a6ffea0Bf9a1d459A3938C43C4B9dB9F5fF39
+```
