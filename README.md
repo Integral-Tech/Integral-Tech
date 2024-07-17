@@ -24,6 +24,14 @@
 | --- | --- |
 
 ### How to reach me
+#### Other Git Hosting Services
+[![Codeberg](https://img.shields.io/badge/-Codeberg-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/integral)
+[![KDE Invent](https://img.shields.io/badge/-KDE%20Invent-1D99F3?logo=kde&logoColor=white&style=for-the-badge)](https://invent.kde.org/integral)
+[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/Integral-Tech)
+[![SourceHut](https://img.shields.io/badge/-XMPP-002B5C?logo=xmpp&logoColor=white&style=for-the-badge)](https://sr.ht/~integral)
+
+Reasons for stop using GitHub: [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub)
+
 #### Instant messaging
 [![Matrix](https://img.shields.io/badge/-Matrix-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral_68:mozilla.org)
 [![XMPP](https://img.shields.io/badge/-XMPP-002B5C?logo=xmpp&logoColor=white&style=for-the-badge)](xmpp:integral68@member.fsf.org)
