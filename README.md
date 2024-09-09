@@ -33,7 +33,7 @@
 Reasons for stop using GitHub: [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub)
 
 #### Instant messaging
-[![Matrix](https://img.shields.io/badge/-Matrix-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral_68:mozilla.org)
+[![Matrix](https://img.shields.io/badge/-Matrix-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral:fedora.im)
 [![XMPP](https://img.shields.io/badge/-XMPP-002B5C?logo=xmpp&logoColor=white&style=for-the-badge)](xmpp:integral68@member.fsf.org)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Integral_Tech)
 
