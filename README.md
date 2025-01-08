@@ -2,6 +2,7 @@
 ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-yellow?logo=linux&logoColor=white&style=for-the-badge)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1D99F3?logo=archlinux&logoColor=white&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
+![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
 ![KDE Plasma](https://img.shields.io/badge/-KDE%20Plasma-0088cc?logo=kde&logoColor=white&style=for-the-badge)
 ![Wayland](https://img.shields.io/badge/-Wayland-ffa200?logo=wayland&logoColor=white&style=for-the-badge)
 
@@ -12,8 +13,7 @@
 ![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?logo=qt&logoColor=white&style=for-the-badge)
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge)
+![Qt / C++](https://img.shields.io/badge/-Qt%2FC++-41CD52?logo=qt&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-8B4513?logo=rust&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![ARM](https://img.shields.io/badge/-ARMv8-0091BD?logo=arm&logoColor=white&style=for-the-badge)
