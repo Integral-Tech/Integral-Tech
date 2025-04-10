@@ -20,8 +20,7 @@
 
 ![FSF Member](https://static.fsf.org/nosvn/associate/crm/6094400.png)
 
-|![](https://github-readme-stats.vercel.app/api?username=Integral-Tech&show_icons=true&theme=github_dark_dimmed)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Integral-Tech&layout=compact&theme=github_dark_dimmed)|
-| --- | --- |
+![](https://github-readme-stats.vercel.app/api?username=Integral-Tech&show_icons=true&theme=github_dark_dimmed)
 
 ### How to reach me
 #### Other Git Hosting Services
