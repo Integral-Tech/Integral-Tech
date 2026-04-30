@@ -9,14 +9,12 @@
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![GNU Emacs](https://img.shields.io/badge/-GNU%20Emacs-7F5AB6?logo=gnuemacs&logoColor=white&style=for-the-badge)
-![Zed](https://img.shields.io/badge/-Zed-084CCF?logo=zedindustries&logoColor=white&style=for-the-badge)
 ![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?logo=qt&logoColor=white&style=for-the-badge)
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![Qt / C++](https://img.shields.io/badge/-Qt%2FC++-41CD52?logo=qt&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-8B4513?logo=rust&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![ARM](https://img.shields.io/badge/-ARMv8-0091BD?logo=arm&logoColor=white&style=for-the-badge)
 
 ![FSF Member](https://static.fsf.org/nosvn/associate/crm/6094400.png)
 
