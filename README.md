@@ -3,7 +3,7 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1D99F3?logo=archlinux&logoColor=white&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-![KDE Plasma](https://img.shields.io/badge/-KDE%20Plasma-0088cc?logo=kde&logoColor=white&style=for-the-badge)
+![KDE Plasma](https://img.shields.io/badge/-KDE%20Plasma-0088cc?logo=kdeplasma&logoColor=white&style=for-the-badge)
 ![Wayland](https://img.shields.io/badge/-Wayland-ffa200?logo=wayland&logoColor=white&style=for-the-badge)
 
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
